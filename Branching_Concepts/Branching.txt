@@ -1,6 +1,26 @@
+#Branching
+
 		Cmd												Function
 	  git branch									checks brach
 	  git branch -M main							rename branch
 	  git checkout <branch name>					to navigate
       git checkout -b <new branch name>				to create new branch 
 	  git branch -d <brach name>					to delete branch
+
+#Merging of Branches
+
+1) Using Github CmdLine
+
+	   Cmd 
+	   git diff <branch name>         to compare commits branches filesa and more
+	   git merge <branch name>        to merge 2 branches
+
+2) Using Pull Request : it tells others about the changes you made to branch in repo on github
+
+
+#Pull Cmd("git pull origin main") : used to fetch and download content from a remote repo to local repo(Your Machine) 
+
+
+# Merging Conflicts: When git is unable to resolve diff in code in 2 branches(will show conflicts if we will run cmd of merging 2
+branches)
+
