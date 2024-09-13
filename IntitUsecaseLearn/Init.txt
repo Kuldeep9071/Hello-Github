@@ -1,5 +1,14 @@
+START
+
 Make a Folder...
 Edit and Write...
 run "git init" to generate ".git" dir in Your folder
-add, commit and push
+run "git remote add origin <link>"
+run "remote -v"  (to verify remote)
+run "git branch" (to check branch)
+run "git branch -M main"  (to rename branch)
+run "git add <filename>"  (to add)
+run "git commit -m {"message"}" (to commit)
+run "git push orign main" (to push)
+
 DONE
