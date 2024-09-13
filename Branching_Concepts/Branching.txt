@@ -1,0 +1,6 @@
+		Cmd												Function
+	  git branch									checks brach
+	  git branch -M main							rename branch
+	  git checkout <branch name>					to navigate
+      git checkout -b <new branch name>				to create new branch 
+	  git branch -d <brach name>					to delete branch
