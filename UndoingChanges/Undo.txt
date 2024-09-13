@@ -12,3 +12,4 @@ Case 3:
 	git reset <commit hash>
 	git reset --hard <commit hash>
 
+NOTE: we can access <commit hash> by running cmd "git log"
